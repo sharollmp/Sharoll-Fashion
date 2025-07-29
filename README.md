@@ -1,7 +1,5 @@
-# ¡Gracias por ver el vídeo! 🎬✨
+# Bienvenidos a Sharoll Fashion 👗✨
 
-Esta es mi primera página web publicada con GitHub Pages.  
-Estoy aprendiendo a programar y este proyecto es parte de mi camino.  
-¡Gracias por acompañarme!
+Este es el proyecto de mi marca de moda. Aquí encontrarás ideas, diseños y avances hechos con mucho cariño.
 
-🔗 Visita mi sitio web aquí: [Mi página](https://tu-usuario.github.io/mi-primera-web/)
+🔗 Visítalo en GitHub: [Sharoll Fashion](https://github.com/sharollmp/Sharoll-Fashion)
