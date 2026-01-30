@@ -1,0 +1,36 @@
+<! DOCTYPE html>
+<html lang="es">
+<cabeza>
+  <meta charset="UTF-8">
+<meta nombre="viewport" content="width=device-width, initial-scale=1.0">
+<título>Tienda online</título>
+  <link rel="stylesheet" href="styles.css">
+</cabeza>
+<cuerpo>
+<cabecera>
+    <nav>
+      <ul>
+<li><a href="index.html">Hogar</a></li>
+        <li><a href="productos.html">Productos</a></li>
+        <li><a href="sobre-nosotros.html">Sobre nosotros</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+</UL>
+</navegación>
+</encabezado>
+<Main>
+    <!-- Contenido del Home -->
+    <section class="banner">
+      <h1>¡Bienvenido a nuestra tienda online!</h1>
+      <button>Explora nuestra colección</button>
+</sección>
+    <section class="productos-destacados">
+      <h2>Productos destacados</h2>
+      <!-- Aquí van los productos -->
+</sección>
+</principal>
+<pies de pie>
+<p>&copy; Tienda online 2024</p>
+</pie de página>
+</cuerpo>
+</html>
+
